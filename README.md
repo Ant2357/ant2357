@@ -2,6 +2,9 @@
   <img alt="contribution snake" width="85%" src="https://github-readme-stats.vercel.app/api?username=ant2357" />
 </p>
 <p align="center">
+  <img alt="contribution snake" width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ant2357&layout=compact" />
+</p>
+<p align="center">
   <img alt="contribution snake" width="85%" src="https://github-profile-trophy.vercel.app/?username=ant2357" />
 </p>
 <p align="center">
