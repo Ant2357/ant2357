@@ -4,7 +4,7 @@ We don't want to go back to tomorrow, we want to go forward.
 ## 🖊️ Skills
 [![My Skills](https://skillicons.dev/icons?i=haskell,cpp,php,nodejs,go,py,java,haxe,mysql,postgres,bash)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vue,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vue,svelte,wasm)](https://skillicons.dev)
 
 ## 📈 Status 
 [![My Twitter Followers](https://badgen.net/twitter/follow/ant2357)](https://twitter.com/ant2357)
