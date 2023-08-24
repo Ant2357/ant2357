@@ -7,8 +7,6 @@ We don't want to go back to tomorrow, we want to go forward.
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vue,svelte,wasm)](https://skillicons.dev)
 
 ## 📈 Status 
-[![My Twitter Followers](https://badgen.net/twitter/follow/ant2357)](https://twitter.com/ant2357)
-
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ant2357&layout=compact&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ant2357" />
