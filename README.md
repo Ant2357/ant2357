@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua) [![Stand With Palestine](https://img.shields.io/badge/%23StandWithPalestine-I_don't_support_Israel-0038b8.svg)](https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict)
+
 # 🐜 Ant2357
 We don't want to go back to tomorrow, we want to go forward.
 
