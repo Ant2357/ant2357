@@ -1,4 +1,6 @@
 # 🐜 Ant2357
+![Ant2357の姿](./assets/images/ant2357.jpg "Ant2357の姿")
+
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua) [![Stand With Palestine](./assets/images/StandWithPalestine.png)](https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict)
 
 We don't want to go back to tomorrow, we want to go forward.
