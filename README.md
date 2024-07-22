@@ -3,9 +3,12 @@
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua) [![Stand With Palestine](./assets/images/StandWithPalestine.png)](https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict)
 
-What?!  
-Comrade, your telling me that I need to get some therapy?  
-But, Comrade, I don't need any therapy  
+What?!
+
+Comrade, your telling me that I need to get some therapy?
+
+But, Comrade, I don't need any therapy
+
 I just need to go to Eastern Bloc.
 
 ## 🖊️ Skills
